@@ -1,0 +1,2 @@
+This is cloud and devops lab
+Performing git and git commands
